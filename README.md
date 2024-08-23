@@ -1,6 +1,8 @@
 ### Hi there 👋
 <b> Welcome To My Profile </b> <hr/>
-Currently under construction!
+### ⏰ Currently working on...
+- [ ] AsterialDream/AsterialBot - A DiscordBot Gatchapon Concept. 🍀
+- [ ] COMPTIA A+ Certification 📄
 <!--
 **Steven-Eon/Steven-Eon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
